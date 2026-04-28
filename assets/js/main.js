@@ -51,7 +51,7 @@
       if (!ok) return;
       if (status) {
         status.style.display = 'block';
-        status.textContent = 'Obrigado! Recebemos a sua mensagem. Respondemos em até 24h úteis.';
+        status.textContent = 'Thank you! We received your message and will reply within 24 business hours.';
       }
       form.reset();
     });
