@@ -5,27 +5,45 @@ Construído com HTML, CSS e JavaScript puro — sem dependências de build.
 
 ## 🚀 Abrir o website (clica nos links)
 
-A forma mais fácil de ver o site **sem instalar nada**: clica nos links abaixo. Eles abrem o site renderizado diretamente a partir desta branch do GitHub.
+A forma mais fácil de ver o site **sem instalar nada**: clica nos links abaixo. Eles abrem o site renderizado diretamente a partir do GitHub.
 
-### Pré-visualização ao vivo (recomendado)
+### ⭐ Versão sempre atualizada (recomendado)
 
-👉 **[Abrir Home](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/index.html)**
+Estes links estão fixados ao **último commit** — ignoram qualquer cache e mostram sempre a versão mais recente. Se atualizares o site, basta gerar novos links.
 
-Outras páginas:
+👉 **[Abrir Home (versão atual)](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/index.html)**
 
-- [Início](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/index.html)
-- [Serviços](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/servicos.html)
-- [Processo](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/processo.html)
-- [Portfólio](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/portfolio.html)
-- [Preços](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/precos.html)
-- [Sobre](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/sobre.html)
-- [FAQ](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/faq.html)
-- [Contacto](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/contacto.html)
-- [Política de Privacidade](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/politica-privacidade.html)
-- [Termos e Condições](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/termos-servico.html)
-- [Política de Cookies](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/politica-cookies.html)
+Outras páginas (versão atual, sem cache):
 
-> Os links usam **raw.githack.com** que serve os ficheiros diretamente com os tipos MIME corretos (CSS e JS carregam bem). Não precisas de instalar nada.
+- [Início](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/index.html)
+- [Serviços](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/servicos.html)
+- [Processo](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/processo.html)
+- [Portfólio](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/portfolio.html)
+- [Preços](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/precos.html)
+- [Sobre](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/sobre.html)
+- [FAQ](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/faq.html)
+- [Contacto](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/contacto.html)
+- [Política de Privacidade](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/politica-privacidade.html)
+- [Termos e Condições](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/termos-servico.html)
+- [Política de Cookies](https://rawcdn.githack.com/perolasindico-prog/prof/4e387e95b337174cb29ac8608c632a43491fa6b4/politica-cookies.html)
+
+### 🔁 Links de branch (podem ter cache de até 10 min)
+
+Se preferires links que sigam sempre o último commit da branch:
+
+- [Home (branch)](https://raw.githack.com/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/index.html)
+
+> Se vires uma versão desatualizada, faz **hard refresh** no browser:
+> - Windows/Linux: `Ctrl` + `Shift` + `R` ou `Ctrl` + `F5`
+> - macOS: `Cmd` + `Shift` + `R`
+>
+> Em alternativa, abre numa **janela anónima/privada** (nunca tem cache).
+
+### Alternativa via outro CDN
+
+Se mesmo assim houver problema, experimenta o `cdn.statically.io`:
+
+- [Home via Statically](https://cdn.statically.io/gh/perolasindico-prog/prof/claude/web-design-service-site-hLBTw/index.html)
 
 ### Alternativa: GitHub Pages (URL definitivo)
 
