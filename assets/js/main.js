@@ -1,9 +1,9 @@
-// Lumen Studio - main interactivity
+// Daily More - main interactivity
 (function () {
   'use strict';
 
   // Theme toggle (persisted)
-  const THEME_KEY = 'lumen-theme';
+  const THEME_KEY = 'daily-more-theme';
   const root = document.documentElement;
   const stored = localStorage.getItem(THEME_KEY);
   if (stored) root.setAttribute('data-theme', stored);
@@ -61,7 +61,7 @@
   }
 
   // Cookie banner
-  const COOKIE_KEY = 'lumen-cookie-consent';
+  const COOKIE_KEY = 'daily-more-cookie-consent';
   const banner = document.querySelector('[data-cookie-banner]');
   if (banner && !localStorage.getItem(COOKIE_KEY)) {
     setTimeout(() => banner.classList.add('visible'), 800);

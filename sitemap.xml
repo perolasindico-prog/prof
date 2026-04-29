@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.lumen.studio/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.lumen.studio/servicos.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.lumen.studio/processo.html</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.lumen.studio/portfolio.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.lumen.studio/precos.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.lumen.studio/sobre.html</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.lumen.studio/faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.lumen.studio/contacto.html</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.lumen.studio/politica-privacidade.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://www.lumen.studio/termos-servico.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://www.lumen.studio/politica-cookies.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.daily-more.info/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.daily-more.info/servicos.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.daily-more.info/processo.html</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.daily-more.info/portfolio.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.daily-more.info/precos.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.daily-more.info/sobre.html</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.daily-more.info/faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.daily-more.info/contacto.html</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.daily-more.info/politica-privacidade.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.daily-more.info/termos-servico.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.daily-more.info/politica-cookies.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>

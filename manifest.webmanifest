@@ -1,12 +1,12 @@
 {
-  "name": "Lumen Studio — Web Design",
-  "short_name": "Lumen",
-  "description": "Estúdio de web design e criação de websites em Lisboa.",
+  "name": "Daily More — Web Design",
+  "short_name": "Daily More",
+  "description": "Web design and website development studio in Lagos, Nigeria.",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#0b0b14",
   "theme_color": "#0b0b14",
-  "lang": "pt-PT",
+  "lang": "en",
   "icons": [
     { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
