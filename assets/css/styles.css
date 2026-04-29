@@ -293,7 +293,7 @@ p { margin: 0 0 1em; color: var(--text-dim); }
 @media (min-width: 880px) { .plan { padding: 32px; } }
 .plan.featured { background: var(--grad-soft); border-color: rgba(124,92,255,0.4); position: relative; }
 .plan.featured::after {
-  content: "Mais popular"; position: absolute; top: 16px; right: 16px;
+  content: "Most popular"; position: absolute; top: 16px; right: 16px;
   background: var(--grad); color: #0b0b14; padding: 4px 10px; border-radius: 999px;
   font-size: .75rem; font-weight: 600;
 }
